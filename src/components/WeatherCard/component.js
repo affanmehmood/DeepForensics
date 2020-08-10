@@ -1,9 +1,27 @@
 import React from 'react';
 
+import styled from '@emotion/styled'
+
 
 const WeatherCard = (props)=>{
+    const red = -40000
+    const Card = styled.div`
+    margin: 0 auto;
+    margin-top: 5px;
+    padding-top: 15px;
+    background: linear-gradient(to bottom, rgba(${red}, 200, 200), pink);
+    width: 200px;
+    height: 240px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+`
     return(
-        <div className="card">
+        <Card className="card">
             
             <div className="location">
                 <h1 className="city">Sydey</h1>
@@ -13,7 +31,7 @@ const WeatherCard = (props)=>{
             alt="Weather Icon"/>
             <h1 className="temp">30°C</h1>
             <h3 className="cond">Clouds</h3>
-        </div>
+        </Card>
     )
 }
 export default WeatherCard;
