@@ -22,8 +22,8 @@ const Location = (props) => {
 
   return (
     <Container>
-      <City>Sydey</City>
-      <Country>AU</Country>
+      <City>{props.city}</City>
+      <Country>{props.country}</Country>
     </Container>
   );
 };
