@@ -1,6 +1,8 @@
 ## Weather Card App
 
-This Project has cards that are created dynamically and are highly customizable.
+The purpose of this webapp is to host a Video Forensics Toolkit.
+This Project has reusable react components that are highly customizable.
+This Project is still in development
 
 ### `npm start`
 

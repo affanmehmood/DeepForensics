@@ -1,8 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Mulish", sans-serif;
+}
+.home-section {
+  height: 600px;
+}
+.navbar {
+  background-color: white;
+}
+.navbar-brand {
+  font-size: 1.9rem !important;
+  color: #565387 !important;
+}
+.brand-name {
+  color: #3498db !important;
+}
+.navbar a {
+  font-size: 1.3rem;
+  text-transform: capitalize;
+}
+.btn-get-started {
+  letter-spacing: 1px;
+  transition: 0.5s;
+  border-radius: 50px;
+  display: inline-block;
+  padding: 10px 30px;
+  font-size: 16px;
+  font-weight: 500;
+  border: solid 2px #3478db;
+  border-radius: 25px;
+  background: none;
+  color: #3498db;
+  text-decoration: none;
+}
+#header h1 {
+  margin: 0 0 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+  color: black;
+}
+.animated {
+  margin-left: 100px;
+  width: 400px;
+  animation: bounce 1.5s infinite alternate;
+  -webkit-animation: bounce 1.5s infinite alternate;
+}
+@keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-15px);
+  }
+}
+@-webkit-keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-15px);
+  }
+}
+.my-3 {
+  font-size: 24px;
+  font-family: "Mulish", sans-serif;
+  color: #484848;
+}
+.mt-4 {
+  margin-top: 20px;
+}
+.mt-4 a:hover {
+  background-color: #5791a5 !important;
+  color: white !important;
+  transition: 0.5s;
+}
+.menu_active {
+  font-weight: bold !;
+  border-bottom: 1px solid #565387;
+}
+.navbar a:hover {
+  color: #3478db !important;
+}
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

@@ -1,47 +1,26 @@
 import React from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle";
 
+import Home from "./Home.jsx";
+import Service from "./Service";
+import About from "./About";
+import Contact from "./Contact";
+import NavBar from "./Navbar";
 import "./App.css";
-import WeatherCard from "./components/WeatherCard/component";
-function addCard() {
-  var cards = [];
-  var cities = [
-    "Sydney",
-    "Rawalpindi",
-    "Municn",
-    "Islamaabad",
-    "Fargo",
-    "Ney York",
-    "Tokyo",
-  ];
-  var countries = ["AU", "PK", "GR", "PK", "US", "US", "JP"];
-  var temps = [30, 25, 5, 20, -15, 5, 10];
-  var conditions = [
-    "Sunny",
-    "Partly Cloudy",
-    "Rainy",
-    "Cloudy",
-    "Blizzard",
-    "Snowy",
-    "Partly Cloudy",
-  ];
+import { Switch, Route, Redirect } from "react-router-dom";
 
-  for (let i = 0; i < cities.length; i++) {
-    cards.push(
-      <WeatherCard
-        temp={temps[i]}
-        city={cities[i]}
-        country={countries[i]}
-        cond={conditions[i]}
-      ></WeatherCard>
-    );
-  }
-  return cards;
-}
 function App() {
   return (
-    <div className="App">
-      <h1 className="title">Weather Card App</h1>
-      <div className="for-flex">${addCard()}</div>
+    <div>
+      <NavBar />
+      <Switch>
+        <Route exact path="/" component={Home} />
+        <Route exact path="/service" component={Service} />
+        <Route exact path="/about" component={About} />
+        <Route exact path="/contact" component={Contact} />
+        <Redirect to="/" />
+      </Switch>
     </div>
   );
 }
