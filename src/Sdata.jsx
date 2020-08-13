@@ -1,9 +1,9 @@
-import img1 from "./image/objrec.png";
-import img2 from "./image/objidf.png";
-import img3 from "./image/objlb.png";
-import img4 from "./image/frmenh.png";
-import img5 from "./image/rptgen.png";
-import img6 from "./image/usrfrn.png";
+import img1 from "./images/objrec.png";
+import img2 from "./images/objidf.png";
+import img3 from "./images/objlb.png";
+import img4 from "./images/frmenh.png";
+import img5 from "./images/rptgen.png";
+import img6 from "./images/usrfrn.png";
 
 const Sdata = [
   {
@@ -20,8 +20,8 @@ const Sdata = [
     text: "Match the objects from the footage and the database.",
   },
   {
-    key: img3,
-    imgsrc: "objlb.png",
+    key: 3,
+    imgsrc: img3,
     title: "Object Labeling",
     text: "Assign labels to the desired objects that are recognized.",
   },
