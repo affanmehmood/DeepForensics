@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2295592c768712c391411033364a9ff3",
+    "revision": "bd8918ed7624abf1fbb2dcf50497cdb5",
     "url": "/DeepForensics/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DeepForensics/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "851a7ed392c479032e61",
+    "revision": "20fe86fcee55aad419f3",
     "url": "/DeepForensics/static/css/main.cc7593c4.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/DeepForensics/static/js/2.bea384a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "851a7ed392c479032e61",
-    "url": "/DeepForensics/static/js/main.b9ea08ed.chunk.js"
+    "revision": "20fe86fcee55aad419f3",
+    "url": "/DeepForensics/static/js/main.4ab0af18.chunk.js"
   },
   {
     "revision": "96680c148fe7018751d7",
