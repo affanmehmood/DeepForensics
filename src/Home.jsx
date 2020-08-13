@@ -6,7 +6,7 @@ const Home = () => {
   const msg1_2 = "DeepForensics";
   const msg2 = "The leading video forensics toolkit in the market.";
   const msg3 = "Get Started";
-  const dest = "/service";
+  const dest = "/download";
   const web = "video.svg";
   return (
     <>

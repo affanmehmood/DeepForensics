@@ -43,7 +43,7 @@
   color: black;
 }
 .animated {
-  margin-left: 100px;
+  margin-left: 115px;
   width: 400px;
   animation: bounce 1.5s infinite alternate;
   -webkit-animation: bounce 1.5s infinite alternate;
@@ -83,6 +83,10 @@
 }
 .navbar a:hover {
   color: #3478db !important;
+}
+.service-img i {
+  height: 100%;
+  width: 100%;
 }
 body {
   margin: 0;

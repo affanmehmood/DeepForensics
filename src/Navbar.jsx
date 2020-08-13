@@ -35,7 +35,7 @@ const Navbar = () => {
                       className="nav-link"
                       to="/"
                     >
-                      Home <span class="sr-only">(current)</span>
+                      Home <span className="sr-only">(current)</span>
                     </NavLink>
                   </li>
                   <li className="nav-item">
@@ -43,9 +43,9 @@ const Navbar = () => {
                       exact
                       activeClassName="menu_active"
                       className="nav-link"
-                      to="/service"
+                      to="/download"
                     >
-                      Services
+                      Downloads
                     </NavLink>
                   </li>
                   <li className="nav-item">
