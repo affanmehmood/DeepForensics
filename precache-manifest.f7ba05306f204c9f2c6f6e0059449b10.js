@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "584ff07311fd250948ed789c655374dc",
+    "revision": "35492de93e615d08a8f3ef73d29b056a",
     "url": "/DeepForensics/index.html"
   },
   {
-    "revision": "f8f5a50558da1e4bb6e2",
+    "revision": "5ee915c6a94867ecf95a",
     "url": "/DeepForensics/static/css/2.75c4ecca.chunk.css"
   },
   {
-    "revision": "f1cbe3e78448f2fd231c",
+    "revision": "a0607a6ad5843e37694d",
     "url": "/DeepForensics/static/css/main.b7622b08.chunk.css"
   },
   {
-    "revision": "f8f5a50558da1e4bb6e2",
-    "url": "/DeepForensics/static/js/2.abd1de98.chunk.js"
+    "revision": "5ee915c6a94867ecf95a",
+    "url": "/DeepForensics/static/js/2.7b7926d7.chunk.js"
   },
   {
     "revision": "361388382a7cba0b7cd58ae9b81faa0e",
-    "url": "/DeepForensics/static/js/2.abd1de98.chunk.js.LICENSE.txt"
+    "url": "/DeepForensics/static/js/2.7b7926d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1cbe3e78448f2fd231c",
-    "url": "/DeepForensics/static/js/main.f149cbad.chunk.js"
+    "revision": "a0607a6ad5843e37694d",
+    "url": "/DeepForensics/static/js/main.a74fc5c6.chunk.js"
   },
   {
     "revision": "96680c148fe7018751d7",
