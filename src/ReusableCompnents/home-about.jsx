@@ -12,7 +12,7 @@ const HomeAbout = (props) => {
   return (
     <>
       <section id="header" className="d-flex align-items-center home-section">
-        <div className="container-fluid">
+        <div className="container-fluid ">
           <div className="row">
             <div className="col-10 mx-auto">
               <div className="row">
@@ -30,11 +30,7 @@ const HomeAbout = (props) => {
                 </div>
 
                 <div className="col-lg-6 order-1 order-lg-2 header-img ">
-                  <img
-                    src={web}
-                    className="img-fluid animated"
-                    alt="home img"
-                  />
+                  <img src={web} className="img-fluid animated" alt="home" />
                 </div>
               </div>
             </div>

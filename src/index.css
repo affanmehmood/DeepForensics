@@ -103,7 +103,7 @@ body {
 
 @media (max-width: 991px) {
   #header {
-    height: 80vh;
+    height: 100vh;
     text-align: center;
   }
   #header .header-img {

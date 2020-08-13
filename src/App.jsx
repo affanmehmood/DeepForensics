@@ -14,7 +14,7 @@ import { Switch, Route, Redirect } from "react-router-dom";
 
 function App() {
   return (
-    <div>
+    <div className="d-flex flex-column flex-sm-column">
       <NavBar />
       <Switch>
         <Route exact path="/" component={Home} />
