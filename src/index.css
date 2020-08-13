@@ -6,7 +6,7 @@
   font-family: "Mulish", sans-serif;
 }
 .home-section {
-  height: 600px;
+  height: 650px;
 }
 .navbar {
   background-color: white;
@@ -88,6 +88,9 @@
   height: 100%;
   width: 100%;
 }
+.contact_div {
+  height: 506px;
+}
 body {
   margin: 0;
   padding: 0;
@@ -96,4 +99,31 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+/* Responsive Code */
+
+@media (max-width: 991px) {
+  #header {
+    height: 80vh;
+    text-align: center;
+  }
+  #header .header-img {
+    text-align: center;
+  }
+  #header .header-img img {
+    width: 60%;
+  }
+
+  @media (max-width: 768px) {
+    #header {
+      margin-top: 20px;
+    }
+    #header h1 {
+      font-size: 28px;
+      margin-bottom: 30px;
+    }
+    #header .header-img img {
+      width: 70%;
+    }
+  }
 }
