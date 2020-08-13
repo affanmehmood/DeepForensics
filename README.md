@@ -1,4 +1,4 @@
-## DeepForensics
+## Weather Card App
 
 The purpose of this webapp is to host a Video Forensics Toolkit.
 This Project has reusable react components that are highly customizable.
