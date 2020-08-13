@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DeepForensics/static/css/main.cc7593c4.chunk.css",
-    "main.js": "/DeepForensics/static/js/main.3ce0768b.chunk.js",
-    "main.js.map": "/DeepForensics/static/js/main.3ce0768b.chunk.js.map",
+    "main.js": "/DeepForensics/static/js/main.d7f3d4fe.chunk.js",
+    "main.js.map": "/DeepForensics/static/js/main.d7f3d4fe.chunk.js.map",
     "runtime-main.js": "/DeepForensics/static/js/runtime-main.d7bc9c79.js",
     "runtime-main.js.map": "/DeepForensics/static/js/runtime-main.d7bc9c79.js.map",
     "static/css/2.75c4ecca.chunk.css": "/DeepForensics/static/css/2.75c4ecca.chunk.css",
     "static/js/2.bea384a0.chunk.js": "/DeepForensics/static/js/2.bea384a0.chunk.js",
     "static/js/2.bea384a0.chunk.js.map": "/DeepForensics/static/js/2.bea384a0.chunk.js.map",
     "index.html": "/DeepForensics/index.html",
-    "precache-manifest.4292cccfbf2ba44ab1ed2d83feff1da7.js": "/DeepForensics/precache-manifest.4292cccfbf2ba44ab1ed2d83feff1da7.js",
+    "precache-manifest.631dce80f3df9fc36632dbbeabc778b9.js": "/DeepForensics/precache-manifest.631dce80f3df9fc36632dbbeabc778b9.js",
     "service-worker.js": "/DeepForensics/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/DeepForensics/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.cc7593c4.chunk.css.map": "/DeepForensics/static/css/main.cc7593c4.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.75c4ecca.chunk.css",
     "static/js/2.bea384a0.chunk.js",
     "static/css/main.cc7593c4.chunk.css",
-    "static/js/main.3ce0768b.chunk.js"
+    "static/js/main.d7f3d4fe.chunk.js"
   ]
 }
