@@ -7,7 +7,7 @@ const Home = () => {
   const msg1 = "Investigate crimes with";
   const msg1_2 = "DeepForensics";
   const msg2 = "The leading video forensics toolkit in the market.";
-  const msg3 = "Get Started1";
+  const msg3 = "Get Started";
   const dest = "/download";
   const web = image;
   return (
