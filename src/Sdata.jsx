@@ -11,39 +11,42 @@ const Sdata = [
     imgsrc: img1,
     title: "Object Recognition",
     text:
-      "Recognize a set of objects from the footage \nthat need to be processed.",
+      "Recognize a set of objects from the footage that need to be processed.",
   },
   {
     key: 2,
     imgsrc: img2,
     title: "Object Identification",
-    text: "Match the objects from the footage and \nthe database.",
+    text:
+      "Match the recognized objects with the given objects that are in the database.",
   },
   {
     key: 3,
     imgsrc: img3,
     title: "Object Labeling",
-    text: "Assign labels to the desired objects that \nare recognized.",
+    text:
+      "Assign labels to the objects that are recognized / identified previously.",
   },
   {
     key: 4,
     imgsrc: img4,
     title: "Frame Enhancement",
-    text: "Apply filter(s) on a specific frame from a \ncollection of filters.",
+    text:
+      "Apply filter(s) on specific frame(s) to enhance it and get more information.",
   },
   {
     key: 5,
     imgsrc: img5,
     title: "Report Generation",
     text:
-      "Compile all of the extracted information from \nevidence videos into a report.",
+      "Compile all of the extracted information from evidence videos into a report.",
   },
   {
     key: 6,
     imgsrc: img6,
     title: "User Friendly Frontend",
     text:
-      "Presenting the UI to the user in a easy to \nunderstand and use manner.",
+      "Presenting the UI to the user in a easy to understand and use manner.",
   },
 ];
 export default Sdata;

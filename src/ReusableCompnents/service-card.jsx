@@ -13,7 +13,7 @@ const ServiceCard = (props) => {
           <img src={web} className="card-img-top service-img" alt="Service" />
           <div className="card-body">
             <h5 className="card-title">{title}</h5>
-            <pre className="card-text overflow-hidden pre-para">{text}</pre>
+            <p className="card-text">{text}</p>
             <NavLink to="#" className="btn btn-primary">
               Details
             </NavLink>
