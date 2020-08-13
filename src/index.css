@@ -43,7 +43,6 @@
   color: black;
 }
 .animated {
-  margin-left: 115px;
   width: 400px;
   animation: bounce 1.5s infinite alternate;
   -webkit-animation: bounce 1.5s infinite alternate;
