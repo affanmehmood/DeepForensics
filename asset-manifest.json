@@ -1,26 +1,33 @@
 {
   "files": {
     "main.css": "/DeepForensics/static/css/main.cc7593c4.chunk.css",
-    "main.js": "/DeepForensics/static/js/main.8c3e610c.chunk.js",
-    "main.js.map": "/DeepForensics/static/js/main.8c3e610c.chunk.js.map",
+    "main.js": "/DeepForensics/static/js/main.5f6df341.chunk.js",
+    "main.js.map": "/DeepForensics/static/js/main.5f6df341.chunk.js.map",
     "runtime-main.js": "/DeepForensics/static/js/runtime-main.d7bc9c79.js",
     "runtime-main.js.map": "/DeepForensics/static/js/runtime-main.d7bc9c79.js.map",
     "static/css/2.75c4ecca.chunk.css": "/DeepForensics/static/css/2.75c4ecca.chunk.css",
-    "static/js/2.3fb400e9.chunk.js": "/DeepForensics/static/js/2.3fb400e9.chunk.js",
-    "static/js/2.3fb400e9.chunk.js.map": "/DeepForensics/static/js/2.3fb400e9.chunk.js.map",
+    "static/js/2.abd1de98.chunk.js": "/DeepForensics/static/js/2.abd1de98.chunk.js",
+    "static/js/2.abd1de98.chunk.js.map": "/DeepForensics/static/js/2.abd1de98.chunk.js.map",
     "index.html": "/DeepForensics/index.html",
-    "precache-manifest.b2db3ad1b609977f42c2d74462fa7d93.js": "/DeepForensics/precache-manifest.b2db3ad1b609977f42c2d74462fa7d93.js",
+    "precache-manifest.e96a61ba399a5826b192c3458a49adcf.js": "/DeepForensics/precache-manifest.e96a61ba399a5826b192c3458a49adcf.js",
     "service-worker.js": "/DeepForensics/service-worker.js",
     "static/css/2.75c4ecca.chunk.css.map": "/DeepForensics/static/css/2.75c4ecca.chunk.css.map",
     "static/css/main.cc7593c4.chunk.css.map": "/DeepForensics/static/css/main.cc7593c4.chunk.css.map",
-    "static/js/2.3fb400e9.chunk.js.LICENSE.txt": "/DeepForensics/static/js/2.3fb400e9.chunk.js.LICENSE.txt",
+    "static/js/2.abd1de98.chunk.js.LICENSE.txt": "/DeepForensics/static/js/2.abd1de98.chunk.js.LICENSE.txt",
+    "static/media/frmenh.png": "/DeepForensics/static/media/frmenh.e8501016.png",
+    "static/media/laptop.svg": "/DeepForensics/static/media/laptop.17a6c9d4.svg",
+    "static/media/objidf.png": "/DeepForensics/static/media/objidf.93a5a291.png",
+    "static/media/objlb.png": "/DeepForensics/static/media/objlb.b70932ab.png",
+    "static/media/objrec.png": "/DeepForensics/static/media/objrec.95a830ae.png",
+    "static/media/rptgen.png": "/DeepForensics/static/media/rptgen.85b414d4.png",
+    "static/media/usrfrn.png": "/DeepForensics/static/media/usrfrn.893f0603.png",
     "static/media/video.svg": "/DeepForensics/static/media/video.5cf5ffef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d7bc9c79.js",
     "static/css/2.75c4ecca.chunk.css",
-    "static/js/2.3fb400e9.chunk.js",
+    "static/js/2.abd1de98.chunk.js",
     "static/css/main.cc7593c4.chunk.css",
-    "static/js/main.8c3e610c.chunk.js"
+    "static/js/main.5f6df341.chunk.js"
   ]
 }
