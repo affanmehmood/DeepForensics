@@ -1,6 +1,6 @@
 import React from "react";
 import "./index.css";
-import HomeAbout from "./ReusableCompnents/home-about";
+import HomeAbout from "../ReusableCompnents/home-about";
 import image from "./images/video.svg";
 
 const Home = () => {
