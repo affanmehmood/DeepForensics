@@ -29,8 +29,12 @@ const HomeAbout = (props) => {
                   </div>
                 </div>
 
-                <div className="col-lg-6 order-1 order-lg-2 header-img ">
-                  <img src={web} className="img-fluid animated" alt="home" />
+                <div className="col-lg-6 order-1 order-lg-2 header-img d-flex align-items-center justify-content-center">
+                  <img
+                    src={web}
+                    className="img-fluid animated w-75"
+                    alt="home"
+                  />
                 </div>
               </div>
             </div>
