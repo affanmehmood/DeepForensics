@@ -5,7 +5,7 @@ import "./App.css";
 import image from "./images/laptop.svg";
 const About = () => {
   const msg1 = "Welcome to about page";
-  const msg1_2 = "DeepForensics";
+  const msg1_2 = "OcularX";
   const msg2 = "We are all about providing solutions";
   const msg3 = "Contact Now";
   const dest = "/contact";

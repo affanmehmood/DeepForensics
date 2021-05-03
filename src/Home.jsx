@@ -5,7 +5,7 @@ import image from "./images/video.svg";
 
 const Home = () => {
   const msg1 = "Investigate crimes with";
-  const msg1_2 = "DeepForensics";
+  const msg1_2 = "OcularX";
   const msg2 = "The leading video forensics toolkit in the market.";
   const msg3 = "Get Started";
   const dest = "/download";

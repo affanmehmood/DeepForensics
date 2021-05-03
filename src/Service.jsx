@@ -7,7 +7,8 @@ const Service = () => {
   return (
     <>
       <div className="my-5">
-        <h1 className="text-center">Tools We Provide</h1>
+        <a target="_blank" href="https://drive.google.com/uc?export=download&id=1nb6Mip5y3ut0Sy6SP7Q-kbL-N3v-ANGr" className="text-center m-4"> <h1>Download OcularX Now</h1></a>
+        <h2 className="text-center">Tools We Provide</h2>
       </div>
       <div className="container-fluid mb-5">
         <div className="row">

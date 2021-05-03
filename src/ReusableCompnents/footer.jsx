@@ -3,7 +3,7 @@ const Footer = () => {
   return (
     <>
       <footer className="mt-auto text-center mb-2 mt-2 ">
-        © DeepForensics. All Rights Reserved | Terms and Conditions
+        © OcularX. All Rights Reserved | Terms and Conditions
       </footer>
     </>
   );

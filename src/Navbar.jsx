@@ -9,7 +9,7 @@ const Navbar = () => {
           <div className="col-10 mx-auto">
             <nav className="navbar navbar-expand-lg navbar-light ">
               <NavLink exact className="navbar-brand" to="/">
-                DeepForensics
+                Ocular<span style={{color:"red"}}>X</span>
               </NavLink>
               <button
                 className="navbar-toggler"
